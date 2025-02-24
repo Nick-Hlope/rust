@@ -25,4 +25,8 @@ The program needs certain dependencies to run properly. In my case, I coded and 
 
 # Links for help:
 
-https://medium.com/@rithvik119am/building-a-linear-regression-model-in-rust-from-scratch-eee7f0da650f
+- https://medium.com/@rithvik119am/building-a-linear-regression-model-in-rust-from-scratch-eee7f0da650f
+
+- https://medium.com/swlh/machine-learning-in-rust-linear-regression-edef3fb65f93
+
+- https://oliverjumpertz.com/blog/simple-linear-regression-in-rust/
