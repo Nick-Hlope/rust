@@ -10,3 +10,19 @@ The program needs certain dependencies to run properly. In my case, I coded and 
 ![rust](https://github.com/user-attachments/assets/9b40ee5a-faa4-4675-a5cd-06739b7b3b45)
 
 3. Follow the instrutcions to install the required dependencies and for more information and guidelines, you can view [The Rust Programming Language Book](https://doc.rust-lang.org/book/ch01-01-installation.html) online
+
+# The code for the program
+
+![main](https://github.com/user-attachments/assets/9b83bbd0-44c6-49b8-8480-f71302e866ff)
+
+- Ensure that the dependencies are correctly configured within the Cargo.toml file
+
+![cargo](https://github.com/user-attachments/assets/0932eb4d-47cb-4957-a5dd-e638234262b6)
+
+- This is what the output of the code should look like
+
+![rust run](https://github.com/user-attachments/assets/8df16c65-3f61-46aa-9faa-0f07553e9472)
+
+# Links for help:
+
+https://medium.com/@rithvik119am/building-a-linear-regression-model-in-rust-from-scratch-eee7f0da650f
